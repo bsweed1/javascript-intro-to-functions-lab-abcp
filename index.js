@@ -5,4 +5,4 @@ function whisper(string) {
   return string.toLowerCase()
 }
 var uppercase = 'hello'
-console.log()uppercase.toUpperCase() === uppercase
+return uppercase.toUpperCase() === uppercase
